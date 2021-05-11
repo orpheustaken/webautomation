@@ -1,4 +1,4 @@
-# Automation Testing
+# Automated software testing for Web Browsers.
 
 ---
 
