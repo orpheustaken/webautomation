@@ -2,6 +2,6 @@
 
 ---
 
-This project was made to simply practice some automation testing using Java, Selenium WebDriver and Cucumber/Gherkin.
+This Maven Project was made to practice automated web testing using Java, Selenium WebDriver and Cucumber/Gherkin.
 
 ---
