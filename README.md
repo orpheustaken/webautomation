@@ -1,4 +1,4 @@
-# Software testing for Web Browsers
+# Software testing for Web
 
 This Maven Project was made to practice automated web testing using Java, Selenium WebDriver and Cucumber/Gherkin.
 
