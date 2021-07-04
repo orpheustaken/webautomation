@@ -1,4 +1,4 @@
-package selenium_cucumber.StepDefinitions;
+package webautomation.StepDefinitions;
 
 import java.util.Random;
 
@@ -6,9 +6,8 @@ import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
-import selenium_cucumber.Browser.DriverFactory;
-import selenium_cucumber.Page.CreateAccountPage;
+import webautomation.Browser.DriverFactory;
+import webautomation.Page.CreateAccountPage;
 
 public class CreateAccount {
     CreateAccountPage objCreateAccountPage;

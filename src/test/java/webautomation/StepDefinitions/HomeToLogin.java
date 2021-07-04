@@ -1,11 +1,10 @@
-package selenium_cucumber.StepDefinitions;
+package webautomation.StepDefinitions;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
-import selenium_cucumber.Browser.DriverFactory;
-import selenium_cucumber.Page.HomeToLoginPage;
+import webautomation.Browser.DriverFactory;
+import webautomation.Page.HomeToLoginPage;
 
 public class HomeToLogin {
     HomeToLoginPage objHomeToLoginPage;

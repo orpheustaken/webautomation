@@ -1,4 +1,4 @@
-package selenium_cucumber.Page;
+package webautomation.Page;
 
 import static org.junit.Assert.assertEquals;
 

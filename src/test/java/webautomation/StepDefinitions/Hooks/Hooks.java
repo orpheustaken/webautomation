@@ -1,4 +1,4 @@
-package selenium_cucumber.StepDefinitions.Hooks;
+package webautomation.StepDefinitions.Hooks;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
-import selenium_cucumber.Browser.DriverFactory;
+import webautomation.Browser.DriverFactory;
 
 public class Hooks {
     WebDriver driver;
