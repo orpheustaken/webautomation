@@ -1,4 +1,5 @@
 Feature: Login
+@LogIn @End2End
 
     Scenario Outline: From SignIn Page, Login Into Account
 

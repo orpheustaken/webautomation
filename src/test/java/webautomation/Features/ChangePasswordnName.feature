@@ -1,4 +1,5 @@
 Feature: Change Password And Name
+@ChangePasswordnName @End2End
 
     Scenario Outline: From SignIn Page, Login Into Account And Change Password and Name
 

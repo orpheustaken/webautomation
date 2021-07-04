@@ -1,4 +1,5 @@
 Feature: Add A New Address And Delete Old One
+@AddNewAddress @End2End
 
     Scenario Outline: From My Account, Add A New Address and Delete Old One
 

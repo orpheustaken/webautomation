@@ -1,4 +1,5 @@
 Feature: Create Account
+@CreateAccount @End2End
 
     Scenario Outline: From MyAccount Page, Create A New One
 
