@@ -10,7 +10,9 @@ import io.cucumber.junit.CucumberOptions;
     features = "src/test/java/webautomation",
     glue = "webautomation/StepDefinitions",
     strict = true, 
-    plugin = {"pretty", "html:target/reports/html", "json:target/reports/json"}
+    plugin = {"pretty", "html:target/reports/html", "json:target/reports/json"},
+
+    tags = "@End2End"
     )
 public class TestRunner {
     
