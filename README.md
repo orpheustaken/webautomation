@@ -8,4 +8,3 @@ The procedure for running mobile testing is essentially the same but with additi
 
 ## License
 [GPL-2.0](https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html)
-
