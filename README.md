@@ -1,5 +1,4 @@
 # Software testing for web
-
 This Maven Project was made to practice automated web testing using Java, Selenium WebDriver and Cucumber/Gherkin.
 
 ## Context
@@ -9,3 +8,4 @@ The procedure for running mobile testing is essentially the same but with additi
 
 ## License
 [GPL-2.0](https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html)
+
