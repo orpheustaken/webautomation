@@ -1,4 +1,11 @@
-# Software testing for web
+# Software Web Testing
+
+#### 2023 Information Update
+
+**You should use Cypress instead...**
+
+---
+
 This Maven Project was made to practice automated web testing using Java, Selenium WebDriver and Cucumber/Gherkin.
 
 ## Context
